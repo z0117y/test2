@@ -36,3 +36,6 @@ A spring boot application can be created in three different ways
  - Autowire by Properties / Autowire by Name
  - Autowire by Setter / Autowire by Type
  - Autowire by Constructor
+
+
+#StudentController
