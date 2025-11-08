@@ -39,3 +39,4 @@ A spring boot application can be created in three different ways
 
 
 AutowiredController
+StudentController
